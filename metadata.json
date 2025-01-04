@@ -1,0 +1,8 @@
+{
+  "currentSong": {
+    "title": "Song Title",
+    "artist": "Artist Name",
+    "audioUrl": "https://raw.githubusercontent.com/username/beatnest-radio/main/music/song1.mp3",
+    "coverUrl": "https://raw.githubusercontent.com/username/beatnest-radio/main/covers/cover1.jpg"
+  }
+}
