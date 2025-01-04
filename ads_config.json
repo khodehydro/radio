@@ -1,12 +1,4 @@
 {
-  "images": [
-    "https://musicdel.ir/wp-content/uploads/2021/12/%D8%AE%DB%8C%D9%84%DB%8C.jpg",
-    "https://dl.musicdel.ir/Music/1403/02/mohammad_alizade_darya.jpg",
-    "https://dl.musicdel.ir/Music/1403/02/mohammad_alizade_taje_sar_music_video.jpg"
-  ],
-  "links": [
-    "https://dl.musicdel.ir/Music/1400/09/mohammad_alizade_kheyli_khoshhalam.mp3",
-    "https://dl.musicdel.ir/tag/music/1403/05/16/Mohammad%20Alizade%20-%20Darya%20(320).mp3",
-    "https://dl.musicdel.ir/tag/music/1402/12/22/Mohammad%20Alizade%20-%20Panah%20(320).mp3"
-  ]
+  "image_url": "https://example.com/image.jpg",
+  "image_link": "https://example.com"
 }
